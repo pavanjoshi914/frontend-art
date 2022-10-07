@@ -1,0 +1,85 @@
+body {
+    font-family: "Raleway", sans-serif; 
+    background: url('https://i.pinimg.com/736x/89/f8/24/89f824f71ecd4d71f508759435c493d5.jpg');
+    background-position: center;
+    background-size: cover;
+    font-weight: bold;
+    font-size: large;
+}
+h1 {
+    font-size: 5.625rem;
+    /*5.625rem is equals to 90px*/
+    margin: 30px auto 0px auto;
+    color: #f2eeef;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    color: #e2b55b;
+    margin-top: 10px;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+}
+
+.middle-container{
+    margin-top: 200px;
+    text-align: center;
+}
+
+.topleft-container{
+    margin-top: 50px;
+}
+
+.btn1 {
+    position: absolute;
+    top: 50px;
+    left: 30px;
+    background: #eeb64e;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.btn1:hover{
+    color: black;
+}
+
+.btn2 {
+    position: absolute;
+    top: 100px;
+    left: 30px;
+    background: #eeb64e;
+    border-radius: 8px;
+    height: auto;
+    width: auto;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    margin-top: 30px;
+    text-decoration: none;
+}
+.btn2:hover{
+    color: black;
+}
+
+.bottomleft-container{
+   /* margin-top: 200px;
+    margin-left: 30px;*/
+    margin: 150px 30px;
+}
+
+.xlarge{
+    font-size: x-large;
+    color: rgb(255, 251, 251);
+}
+
+.large{
+    color: rgb(255, 251, 251);
+    font-size: large;
+    font-weight: lighter;
+
+}
