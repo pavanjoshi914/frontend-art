@@ -1,4 +1,4 @@
-# frontend-art
+# frontend-art by pavanjoshi
 
 Showcase your frontend art by uploading your project here.
 
