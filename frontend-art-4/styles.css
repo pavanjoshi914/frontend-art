@@ -1,0 +1,29 @@
+h1 {
+    color: orangered;
+    margin-left: 80px;
+}
+p{
+    margin-left: 80px;
+}
+.pizza {
+    height: 200px;
+    width: 200px;
+    margin-left: 70px;
+    background-color: rgb(62, 255, 165);
+}
+.pizza:hover{
+    background-color:  brown;;
+}
+.broccoli {
+    height: 200px;
+    width: 200px;
+    margin-left: 70px;
+    background-color: brown;
+}
+.broccoli:hover{
+    background-color: rgb(62, 255, 165);
+}
+
+#heading {
+    color: rgb(238, 136, 20);
+}
